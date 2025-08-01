@@ -18,7 +18,7 @@ Image(filename='/Users/jaideshmukh/ForBridgewater/mcp.png', width=2400, height=1
 
 
     
-![png](output_1_0.png)
+![png](mcp.png)
     
 
 
