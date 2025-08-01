@@ -69,133 +69,76 @@ print("Libraries imported successfully.")
 
 
     
-![png](CoopLifeExpectancy.png)
+![png](Coop_LifeExpectancy.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Coop_CO2.png', width=800, height=600)
-```
-
-
-
 
     
-![png](output_7_0.png)
+![png](Coop_CO2.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Coop_Literacy.png', width=800, height=600)
-```
-
-
 
 
     
-![png](output_8_0.png)
+![png](Coop_Literacy.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Coop_Vaccination.png', width=800, height=600)
-```
-
-
-
 
     
-![png](output_9_0.png)
+![png](Coop_Vaccination.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Mob_Cross_Border_Internet.png', width=800, height=600)
-```
-
-
-
 
     
-![png](output_10_0.png)
+![png](Mob_Cross_Border_Internet.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Mob_Global_Trade.png', width=800, height=600)
-```
-
-
-
 
     
-![png](output_11_0.png)
+![png](Mob_Global_Trade.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Mob_IPR.png', width=800, height=600)
-```
-
-
 
 
     
-![png](output_12_0.png)
+![png](Mob_IPR.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Mob_Migrant_Stock.png', width=800, height=600)
-```
-
-
+    
+![png](Mob_Migrant_Stock.png)
+    
 
 
     
-![png](output_13_0.png)
+![png](Pred_GPR.png)
     
 
 
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Pred_GPR.png', width=800, height=600)
-```
-
-
-
-
     
-![png](output_14_0.png)
-    
-
-
-
-
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Pred_VIX.png', width=800, height=600)
-```
-
-
-
-
-    
-![png](output_15_0.png)
+![png](Pred_VIX.png)
     
 
 
