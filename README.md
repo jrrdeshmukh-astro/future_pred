@@ -9,19 +9,9 @@ After a phase of rapid growth, global mobility metrics show signs of contraction
 ### 3. Human Cooperation Remains Stable Despite Declining Mobility
 While global mobility is decreasing, cooperation metrics remain steady. This resilience indicates that nations are adapting and maintaining collaborative efforts even in the face of reduced physical connectivity.
 
-
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/mcp.png', width=2400, height=1800)
-```
-
-
-
-
     
 ![png](mcp.png)
     
-
-
 
 ## Implementation Notes
 
@@ -78,15 +68,8 @@ print("Libraries imported successfully.")
 ```
 
 
-```python
-Image(filename='/Users/jaideshmukh/ForBridgewater/Coop_LifeExpectancy.png', width=800, height=600)
-```
-
-
-
-
     
-![png](output_6_0.png)
+![png](CoopLifeExpectancy.png)
     
 
 
